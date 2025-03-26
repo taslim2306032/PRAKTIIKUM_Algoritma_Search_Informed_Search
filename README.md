@@ -1,6 +1,8 @@
 
 # Implementasi Algoritma Pencarian Berbasis Informasi Tambahan (Informed Search)
 
+# 2306032_TASLIM NURALIM
+
 Repositori ini merupakan kumpulan implementasi dari berbagai algoritma pencarian yang memanfaatkan informasi tambahan atau pendekatan heuristik (Informed Search), ditulis dalam bahasa pemrograman Python. Algoritma-algoritma ini dirancang untuk menavigasi graf dan menemukan jalur optimal secara efisien dengan menggunakan estimasi terhadap jarak ke tujuan sebagai panduan dalam proses pencarian.
 
 ---
